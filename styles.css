@@ -1,1 +1,100 @@
 /* Write your CSS here! */
+#mainHeading {
+    position: relative;
+    margin: 5%;
+    background-color: pink;
+    padding: 5%;
+    text-align: center;
+    color: white;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+
+    text-transform: uppercase;
+}
+
+#subHeading {
+    color: white;
+    text-align: center;
+    background-color: palevioletred;
+    padding: 4%;
+    font-family: Chalkduster, fantasy;
+    font-size: medium;
+    font-weight: 100;
+
+
+
+}
+
+#galleryName {
+    text-align: center;
+    text-transform: uppercase;
+    background-color: pink;
+    font-family: Chalkduster, fantasy;
+    color: palevioletred;
+    padding: 4%;
+    margin-left: 20%;
+    margin-right: 20%;
+
+}
+
+s body {
+    margin: 5px;
+    padding: 10px;
+    display: block;
+    background-color: white;
+
+}
+
+.funParagraph {
+    color: palevioletred;
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#testP {
+    background-color: lavenderblush;
+    text-align: center;
+    padding: 10%;
+    font-family: Chalkduster, fantasy;
+
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    padding: 1px;
+    text-align: center;
+
+}
+
+
+
+h4 {
+    color: palevioletred;
+    text-align: center;
+    padding: 10%;
+}
+
+h2 {
+    color: pink;
+    text-align: left;
+
+}
+
+#neeka {
+    border-radius: 60%;
+    background-color: palevioletred;
+    text-align: center;
+    margin-left: 70%;
+}
+
+#dani {
+    border-radius: 60%;
+    background-color: palevioletred;
+    text-align: center;
+    margin-right: 70%;
+
+}
